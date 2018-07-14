@@ -1,0 +1,22 @@
+git remote add origin https://github.com/hauphvn/hauphvn.github.io.git
+ten mien: hauphvn.github.io
+úp lên git
+bước 1: lệnh git init -- tạo kho repo trống
+bước 2: up lên. git add "tenfile"
+hoặc là : git add . -- up toàn bộ file trong thư mục
+bước 3: dùng lênh đưa lên git. git remote add origin https://github.com/hauphvn/hauphvn.github.io.git
+bước 4: kiểm tra lại trạng thái. git status
+bước 5: xác nhận kí tên. git commit -m "ghi chu noi dung vua moi upload"
+bước 5.1: nhớ mã băm: ví dụ: e0bb835
+bước 6: push. git push origin master 
+
+----
+sync với tài khoản
+bước 1: kiểm tra trạng thái giờ thế nào . có file gì mới không
+git status
+bước 2: git add . or git add tenfile.gido
+bước 3: git commit -m"ghichu"
+bước 4: git push origin master
+-------------------
+lôi file từ git về máy
+
