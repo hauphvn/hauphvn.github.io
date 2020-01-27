@@ -228,6 +228,7 @@ nav.horizontal ul li {
 
 img {
     max-width: 100%;
+    opacity: 0.5;
 }
 
 
@@ -238,7 +239,9 @@ body {
     background: url(../images/bg.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
+    /* opacity: 0.5; */
 }
+
 
 p {
     font-size: 1em;
