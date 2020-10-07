@@ -12,10 +12,14 @@
     margin: 50px;
   }
   @media only screen and (max-width: 480px) {
+    .fullname{
+      text-align: center;
+    }
     .info-left img{
-        margin: 0;
-        box-sizing: border-box;
-    padding-left: 48px;
+      /* width: 80px;
+      border-radius: 50%;
+        box-sizing: border-box; */
+    padding-left: 60px;
       }
       .table-content th{
         width: 105px;
@@ -27,7 +31,7 @@
 }
 .info-right{
     margin-left: 23px;
-  
+
 }
 .infor-left{
     padding-top: 25px;
@@ -35,7 +39,7 @@
 .table tr{
     text-align: left;
     margin-right: 5px;
-    
+
 }
 .table th{
     padding-right: 40px;
@@ -45,7 +49,7 @@
 #homepage-title{
   padding: 23px;
 }
-#homepage-table{  
+#homepage-table{
   border:0;
 }
 /* END CSS HOME PAGE */
