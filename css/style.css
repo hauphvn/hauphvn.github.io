@@ -40,3 +40,12 @@
 .table th{
     padding-right: 40px;
 } */
+
+/* CSS HOME PAGE */
+#homepage-title{
+  padding: 23px;
+}
+#homepage-table{  
+  border:0;
+}
+/* END CSS HOME PAGE */
