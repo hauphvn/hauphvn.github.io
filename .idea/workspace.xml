@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33fe07ab-4c8e-47b1-8c33-949d937cc886" name="Default Changelist" comment="Updating  CV" />
+    <list default="true" id="33fe07ab-4c8e-47b1-8c33-949d937cc886" name="Default Changelist" comment="Updating  CV">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,7 @@
       <workItem from="1618570950624" duration="353000" />
       <workItem from="1620215836129" duration="164000" />
       <workItem from="1620218893970" duration="176000" />
-      <workItem from="1620221900993" duration="327000" />
+      <workItem from="1620221900993" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="Thesis blockchain">
       <created>1567923407754</created>
@@ -161,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620222037553</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updating  CV">
+      <created>1620222295849</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620222295849</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,9 +204,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1618499640280" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1618502272548">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1620222297077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618502272548" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620222297077" />
   </component>
 </project>
