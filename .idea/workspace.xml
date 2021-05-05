@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33fe07ab-4c8e-47b1-8c33-949d937cc886" name="Default Changelist" comment="Updating  CV">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33fe07ab-4c8e-47b1-8c33-949d937cc886" name="Default Changelist" comment="Updating  CV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +68,7 @@
       <workItem from="1618570950624" duration="353000" />
       <workItem from="1620215836129" duration="164000" />
       <workItem from="1620218893970" duration="176000" />
+      <workItem from="1620221900993" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="Thesis blockchain">
       <created>1567923407754</created>
@@ -155,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618502271086</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updating  CV">
+      <created>1620222037552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620222037553</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
