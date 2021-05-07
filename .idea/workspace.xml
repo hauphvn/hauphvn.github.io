@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33fe07ab-4c8e-47b1-8c33-949d937cc886" name="Default Changelist" comment="Updating  CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kayakfeSpringBoot" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -73,6 +74,9 @@
       <workItem from="1620221900993" duration="571000" />
       <workItem from="1620225980653" duration="695000" />
       <workItem from="1620269821694" duration="111000" />
+      <workItem from="1620302601262" duration="724000" />
+      <workItem from="1620360072223" duration="76000" />
+      <workItem from="1620361301471" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="Thesis blockchain">
       <created>1567923407754</created>
@@ -179,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620227418939</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updating  CV">
+      <created>1620302712592</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620302712593</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,9 +223,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1618499640280" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1620227420953">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1620360147681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620227420953" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620360147681" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1620302714218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620302714218" />
   </component>
 </project>
